@@ -1,16 +1,13 @@
-<h1 align="left">Welcome to my profile</h1>
+# Welcome to my profile
 
-<h3 align="left">Greetings, my name is ko!</h3>
+### Greetings, my name is ko!
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko50&layout=compact&hide=html" alt="ko50" /> <br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ko50&layout=compact&hide=html) <br />
+![](https://github-readme-stats.vercel.app/api?username=ko50&show_icons=true) <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ko50&show_icons=true" alt="ko50" /> <br />
----
-<br />
-
-### Please see also: *[ko's Portfolio](https://ko50.github.io)* <br />
+### Please see also: *[ko's Portfolio](https://ko50.github.io)*
 
 ### Fun fact:
 
