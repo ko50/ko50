@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="left">Welcome to my profile</h1>
 
-<!--
-**ko50/ko50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Greetings, my name is ko!</h3>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ko50&layout=compact&hide=html" alt="ko50" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ko50&show_icons=true" alt="ko50" />
+
+<br />
+
+### Please see also: *[ko's Portfolio](https://ko50.github.io)*
+
+<br />
+
+### Fun fact:
+
+![](https://cdn.discordapp.com/attachments/700920014475362346/742270749124984902/header.jpg)
+
