@@ -10,11 +10,11 @@
 
 <br />
 
-### Please see also: *[ko's Portfolio](https://ko50.github.io)*
+### Please see also: *[Portfolio](https://ko50.github.io)*
 
 <br />
 
 ### Fun fact:
 
-![](https://cdn.discordapp.com/attachments/700920014475362346/742270749124984902/header.jpg)
+### <img src="https://cdn.discordapp.com/attachments/700920014475362346/742270749124984902/header.jpg" style="zoom: 25%;" />
 
